@@ -1,3 +1,4 @@
-0.77
--Correção no processamento assíncrono, agora funcionando
--Aceleração do processamento assíncrono, task que inicializa a conexão com o banco de dados criada logo ao início do programa para acelerar a consulta depois no login
+0.78
+-AutoUpdate functionality added;
+-Check on Github text if have the last version;
+-Using Task to run autoUpdate on background;
