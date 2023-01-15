@@ -1,4 +1,7 @@
-0.78
--AutoUpdate functionality added;
--Check on Github text if have the last version;
--Using Task to run autoUpdate on background;
+Version 0.79
+
+-AutoUpdate functionality fixed;
+-Show Changelog functionality added;
+-Fixed Invisible Chrome Browser not closing on background;
+-Fixed some WebBrowser searcher bugs (Dependencie);
+-Fixed awt instead of javafx Label error;
