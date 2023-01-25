@@ -1,7 +1,6 @@
-Version 0.79
+Version 0.90
 
--AutoUpdate functionality fixed;
--Show Changelog functionality added;
--Fixed Invisible Chrome Browser not closing on background;
--Fixed some WebBrowser searcher bugs (Dependencie);
--Fixed awt instead of javafx Label error;
+-New Functionality save UserLogin and Password
+-UI CheckBox to save user login and password
+-thread to execute file save on background
+-json class to generate json file using GSON from other project
