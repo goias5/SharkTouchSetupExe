@@ -1,4 +1,4 @@
-Version 0.91
+0.91
 
 -Correct mainScreen version label not updating version
 -Correct loginError (infinite loop) after website update
