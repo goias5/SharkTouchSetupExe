@@ -1,6 +1,5 @@
-Version 0.90
+Version 0.91
 
--New Functionality save UserLogin and Password
--UI CheckBox to save user login and password
--thread to execute file save on background
--json class to generate json file using GSON from other project
+-Correct mainScreen version label not updating version
+-Correct loginError (infinite loop) after website update
+-Some small other fixes
