@@ -1,5 +1,3 @@
-0.91
+0.92
 
--Correct mainScreen version label not updating version
--Correct loginError (infinite loop) after website update
--Some small other fixes
+-Correct database design changes affecting log-in on the app (freezing)
